@@ -1,6 +1,6 @@
 ## We are Grapevine! 🍇
 
-This is a private github but you can view our web site at [https://mygrapevine.ai/] (https://mygrapevine.ai/)
+This is a private github but you can view our web site at https://mygrapevine.ai/
 
 <!--
 
